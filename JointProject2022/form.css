@@ -1,0 +1,77 @@
+:required
+	{
+		border:2px solid red;
+	}
+
+label
+{
+	font-family:"Helvetica";
+	padding-left:50px;
+	font-size:20px;
+}
+
+p
+{
+	font-family:"Helvetica";
+	font-size:30px;
+}
+
+input
+	{
+		font-family:"Helvetica Neue",Helvetica,Arial,sans-serrif;
+		border:1px solid silver;
+		font-size:30px;
+		min-height:30px;
+		display:block;
+		margin:auto;
+		margin-bottom:15px;
+		margin-top:5px;
+		width: 350px;
+	}
+
+div.container
+	{
+		height:950px;
+		display: block;
+		margin:auto;
+		width: 700px;
+		font-weight:bold;
+		border:3px solid black;
+		background-color:white;
+	}
+
+body
+  	{
+			margin-top:5vh;
+  		background-color:#adff2f;
+  	}
+
+h2
+	{
+		font-family:"Helvetica";
+		font-size:50px;
+		margin: auto;
+		width: 100%;
+		text-align:center;
+		background-color:#dfdfdf;
+	}
+
+h4
+	{
+		font-family:"Helvetica";
+		font-size:20px;
+		margin: auto;
+		width: 100%;
+		text-align:center;
+		color:red;
+		background-color:#dfdfdf;
+		border-bottom:3px solid black;
+	}
+
+	h4.disclaimer
+	{
+		
+		border:3px solid black;
+		font-family:"Helvetica";
+		vertical-align: bottom;
+	}
